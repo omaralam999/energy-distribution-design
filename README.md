@@ -16,9 +16,5 @@ Design of electrical distribution and street lighting for a large residential ar
 - ✅ Drawing (PDF): `Energy_Distribution_Residential_Area.pdf`
 - ✅ Calculations (Excel): `Calculations.xlsx`
 
-## Preview
-![General Layout](images/layout_1.png)
-![Street Lighting](images/layout_2.png)
-
 ## Notes
 - Detailed DWG/source files can be provided upon request (or via a private link).
